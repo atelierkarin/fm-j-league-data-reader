@@ -1,0 +1,12 @@
+__pycache__/*
+
+hokkaido/*
+temp_code/*
+
+*.doc
+*.docx
+*.xlsx
+*.html
+*.pickle
+
+*done.csv
